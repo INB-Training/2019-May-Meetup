@@ -5,6 +5,8 @@
 
 1. Launch the pre-intall the docker instance
 ```
+ docker load --input ffmpeg-centos76.tar
+
  docker run -v “$PWD:/mnt:ro” -it openvisualcloud/xeon-centos76-media-ffmpeg /bin/bash
 ```
 2. Change directory to current
