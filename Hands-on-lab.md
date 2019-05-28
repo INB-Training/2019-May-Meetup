@@ -32,5 +32,5 @@
 - [ ] **Lab. #1:** RDT
 - [ ] **Lab. #2:** Open Visual Cloud lab - Simplifying and accelerating converged media, analytics, and graphics services with the Open Visual Cloud - [OpenVisualCloud]
 
-[OpenVisualCloud]: https://github.com/INB-Training/2019-May-Meetup/tree/master/VisualCloud
+[OpenVisualCloud]: https://github.com/INB-Training/2019-May-Meetup/tree/master/VisualCloud.md
 
