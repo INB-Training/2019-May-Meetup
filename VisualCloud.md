@@ -1,4 +1,4 @@
-#Visual Cloud Lab user guide
+# Visual Cloud Lab user guide
 
 ## Preparation: Running docker and cp mp4 file to test
 > In this task you will review the server configuration, and learn how to adjust the core speeds manually
@@ -42,4 +42,4 @@ ffmpeg -i travel6.mp4 -c:v libsvt_av1 travel6_av1.mp4
 ffprobe -v error -show_streams travel6_av1.mp4
 ```
 
-## End of the lab
+End of the lab
