@@ -1,8 +1,8 @@
 # Visual Cloud Lab user guide
 
 ## Preparation: Running docker and cp mp4 file to test
-> In this task you will review the server configuration, and learn how to adjust the core speeds manually
-> You will also learn how the core mappings are unique to each CPU chip
+> In this task you will prepare the docker environment on your assigned server(Cascade Lake)
+
 1. Launch the pre-intall the docker instance
 ```
  docker run -v “$PWD:/mnt:ro” -it openvisualcloud/xeon-centos76-media-ffmpeg /bin/bash
